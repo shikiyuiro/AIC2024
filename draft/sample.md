@@ -25,8 +25,8 @@ int main(){
 }
 ```
 
-> [tips]
+> [!TIP]
 > 必要なら、厳密な証明や仕様などを他のサイトに文献として提示することで記述を簡潔にできる
-> <a href="https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax" target="_blank"> md記法の詳細 </a>
+> [md記法の詳細](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 </details>
